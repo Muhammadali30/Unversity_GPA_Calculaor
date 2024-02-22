@@ -1,0 +1,10 @@
+c:\users\ali\documents\visual studio 2015\Projects\GPA\GPA\bin\Debug\GPA.exe.config
+c:\users\ali\documents\visual studio 2015\Projects\GPA\GPA\bin\Debug\GPA.exe
+c:\users\ali\documents\visual studio 2015\Projects\GPA\GPA\bin\Debug\GPA.pdb
+c:\users\ali\documents\visual studio 2015\Projects\GPA\GPA\obj\Debug\GPA.Properties.Resources.resources
+c:\users\ali\documents\visual studio 2015\Projects\GPA\GPA\obj\Debug\GPA.csproj.GenerateResource.Cache
+c:\users\ali\documents\visual studio 2015\Projects\GPA\GPA\obj\Debug\GPA.exe
+c:\users\ali\documents\visual studio 2015\Projects\GPA\GPA\obj\Debug\GPA.pdb
+c:\users\ali\documents\visual studio 2015\Projects\GPA\GPA\obj\Debug\GPA.GPA.resources
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\GPA\GPA\obj\Debug\GPA.csproj.AssemblyReference.cache
+C:\Users\Ali\Documents\Visual Studio 2015\Projects\GPA\GPA\obj\Debug\GPA.csproj.CoreCompileInputs.cache
